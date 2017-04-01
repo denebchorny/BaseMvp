@@ -6,8 +6,8 @@ import android.support.annotation.NonNull;
 import android.support.annotation.StringRes;
 import android.support.v4.app.Fragment;
 
-import com.denebasecas.basearquitecture.utils.permissions.PermissionManager;
-import com.denebasecas.basearquitecture.utils.permissions.PermissionResult;
+import com.denebasecas.basearquitecture.utils.permission.PermissionManager;
+import com.denebasecas.basearquitecture.utils.permission.PermissionResult;
 
 /**
  * Created by Deneb Chorny (denebchorny@gmail.com)

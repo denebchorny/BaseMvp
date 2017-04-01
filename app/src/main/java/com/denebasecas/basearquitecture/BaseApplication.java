@@ -125,7 +125,6 @@ public class BaseApplication extends Application {
         try {
             File dir = getAppContext().getCacheDir();
             deleteDir(dir);
-            Log.d(TAG, "deleteCache"); //NON-NLS
         } catch (Exception e) {
             Log.e(TAG, "deleteCache: ", e); //NON-NLS
         }

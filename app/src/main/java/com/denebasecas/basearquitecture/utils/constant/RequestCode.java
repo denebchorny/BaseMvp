@@ -1,4 +1,4 @@
-package com.denebasecas.basearquitecture.utils.constants;
+package com.denebasecas.basearquitecture.utils.constant;
 
 /**
  * Created by Deneb Chorny (denebchorny@gmail.com).

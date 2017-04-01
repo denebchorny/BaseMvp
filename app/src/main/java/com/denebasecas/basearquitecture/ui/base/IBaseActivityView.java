@@ -1,12 +1,11 @@
 package com.denebasecas.basearquitecture.ui.base;
 
 import android.app.Activity;
-import android.app.Application;
 import android.content.Context;
 import android.support.annotation.StringRes;
 import android.support.v4.app.FragmentActivity;
 
-import com.denebasecas.basearquitecture.utils.permissions.PermissionResult;
+import com.denebasecas.basearquitecture.utils.permission.PermissionResult;
 
 
 /**

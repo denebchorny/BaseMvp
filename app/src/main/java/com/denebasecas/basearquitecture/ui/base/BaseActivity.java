@@ -19,8 +19,8 @@ import android.widget.Toast;
 import com.denebasecas.basearquitecture.R;
 import com.denebasecas.basearquitecture.utils.KeyboardUtils;
 import com.denebasecas.basearquitecture.utils.NetworkUtils;
-import com.denebasecas.basearquitecture.utils.permissions.PermissionManager;
-import com.denebasecas.basearquitecture.utils.permissions.PermissionResult;
+import com.denebasecas.basearquitecture.utils.permission.PermissionManager;
+import com.denebasecas.basearquitecture.utils.permission.PermissionResult;
 
 import butterknife.Unbinder;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;

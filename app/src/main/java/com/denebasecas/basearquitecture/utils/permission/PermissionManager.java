@@ -1,4 +1,4 @@
-package com.denebasecas.basearquitecture.utils.permissions;
+package com.denebasecas.basearquitecture.utils.permission;
 
 import android.Manifest;
 import android.app.Activity;
